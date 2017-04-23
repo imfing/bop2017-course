@@ -12,6 +12,13 @@
 
 4. Bot与LUIS等认知服务的连接
 
+## 教程
+
+1. [In Bytes Episodes](https://www.youtube.com/watch?v=I_dNv_t0c_Q&t=1s)
+
+2. [MVA微软虚拟学院(中文字幕，基于Node)](https://mva.microsoft.com/zh-cn/training-courses/bots-16759?l=2zTAb2HyC_3504668937)
+
+
 ## 有用的链接：
 
 [Microsoft Bot Framework主页](https://dev.botframework.com/)
