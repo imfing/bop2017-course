@@ -10,9 +10,20 @@
 
 3. Bot与LUIS等认知服务的连接
 
+## 有用的链接：
 
-培训PPT下载
+[Microsoft Bot Framework主页](https://dev.botframework.com/)
 
-链接: http://pan.baidu.com/s/1gePmA3p 密码: q84a
+[Bot Framework文档](https://docs.botframework.com/en-us/)
+
+[Bot资源下载](https://docs.botframework.com/en-us/downloads/#navtitle)
+
+[Cognitive Services](https://www.microsoft.com/cognitive-services)
+
+[LUIS](https://www.luis.ai/)
+
+## 培训PPT下载
+
+链接: [百度云](http://pan.baidu.com/s/1gePmA3p) 密码: q84a
 
 Fing
